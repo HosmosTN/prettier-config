@@ -1,4 +1,4 @@
-# @HosmosTN/prettier-config [![npm](https://img.shields.io/npm/v/@HosmosTN/prettier-config?style=for-the-badge)](https://www.npmjs.com/package/@HosmosTN/prettier-config)
+# @hosmostn/prettier-config [![npm](https://img.shields.io/npm/v/@hosmostn/prettier-config?style=for-the-badge)](https://www.npmjs.com/package/@hosmostn/prettier-config)
 
 This is my preferred prettier configuration as an installable node package.
 
@@ -7,7 +7,7 @@ This is my preferred prettier configuration as an installable node package.
 Installation f. ex. using `npm`:
 
 ```
-npm install --save-dev @HosmosTN/prettier-config
+npm install --save-dev @hosmostn/prettier-config
 ```
 
 Add to `package.json`:
@@ -15,7 +15,7 @@ Add to `package.json`:
 ```
 {
   // ...
-  "prettier": "@HosmosTN/prettier-config"
+  "prettier": "@hosmostn/prettier-config"
 }
 ```
 
@@ -23,7 +23,7 @@ To extend or override the configuration, use `.prettierrc.js`:
 
 ```
 module.exports = {
-	...require("@HosmosTN/prettier-config"),
+	...require("@hosmostn/prettier-config"),
 	semi: false,
 };
 ```
