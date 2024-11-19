@@ -1,11 +1,11 @@
 {
-  "name": "@HosmosTN/prettier-config",
+  "name": "@hosmostn/prettier-config",
   "version": "1.0.1",
   "description": "Preferred prettier configuration",
   "main": ".prettierrc",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HosmosTN/prettier-config.git"
+    "url": "git+https://github.com/hosmostn/prettier-config.git"
   },
   "keywords": [
     "prettier",
@@ -13,10 +13,10 @@
     "configuration",
     "npm"
   ],
-  "author": "HosmosTN",
+  "author": "hosmostn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HosmosTN/prettier-config/issues"
+    "url": "https://github.com/hosmostn/prettier-config/issues"
   },
-  "homepage": "https://github.com/HosmosTN/prettier-config#readme"
+  "homepage": "https://github.com/hosmostn/prettier-config#readme"
 }
